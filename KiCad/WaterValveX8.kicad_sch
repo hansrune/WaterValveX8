@@ -6895,7 +6895,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 167.64 105.41 0)
 			(effects
 				(font
@@ -9607,7 +9607,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 179.07 105.41 0)
 			(effects
 				(font
@@ -9814,7 +9814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 190.5 105.41 0)
 			(effects
 				(font
@@ -10021,7 +10021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 105.41 0)
 			(effects
 				(font
@@ -11244,7 +11244,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 62.23 47.625 0)
 			(effects
 				(font
@@ -11799,7 +11799,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 213.36 40.64 0)
 			(effects
 				(font
@@ -11868,7 +11868,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 224.79 40.64 0)
 			(effects
 				(font
@@ -12556,7 +12556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 40.64 0)
 			(effects
 				(font
@@ -14727,7 +14727,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 236.22 40.64 0)
 			(effects
 				(font
