@@ -29,7 +29,7 @@ fp-info-cache
 *.xml
 #*.csv
 
-/gerber/
+**/gerber/
 
 # 
 # MacOS
