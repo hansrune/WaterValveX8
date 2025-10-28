@@ -5,7 +5,7 @@
 	(uuid "098a8407-cb75-4379-a694-65a64d739020")
 	(paper "A4")
 	(title_block
-		(title "4x Water Valve Control with Water Meter Input")
+		(title "8x Water Valve Control with Water Meter Input")
 		(date "2025-10-27")
 		(rev "4.0.0")
 		(company "Copyright - Hans Rune Bue <email@hansrune.net>")
