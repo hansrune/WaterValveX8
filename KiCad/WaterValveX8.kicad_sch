@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "8x Water Valve Control with Water Meter Input")
-		(date "2026-01-04")
-		(rev "5.1.0")
+		(date "2026-09-04")
+		(rev "5.2.0")
 		(company "Copyright - Hans Rune Bue <email@hansrune.net>")
 		(comment 1 "Hardware is licensed under CERN-OHL-W-2.0")
 		(comment 2 "Project documents are licensed under CC-BY-SA 2.0")
